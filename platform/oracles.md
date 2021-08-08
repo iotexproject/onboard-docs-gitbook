@@ -8,6 +8,8 @@ For blockchains to reach their full potential, they need access to the world’s
 
 只有连接到全球海量的数据，区块链才能发挥其全部潜力。因此，来自预言机的链下数据对于链上智能合约来说至关重要。与那些使用集中式数据库（例如加密货币价格）的预言机不同，IoTeX正在构建全球首个“真实世界数据预言机”，为区块链解锁更多新的数据源，获取来自可信设备、可验证的真实世界数据。全球首个可信预言机将可以带领IoTeX成为真实世界与区块链世界的可信数据枢纽。
 
+
+
 ![](../.gitbook/assets/image%20%2816%29.png)
 
 On-chain real world data will empower [DeFIoT](https://iotex.medium.com/defiot-unlocking-the-trillion-dollar-iot-data-market-c76a5204cb0e) use cases and pave the way for new on-chain assets backed by real world data on IoTeX. Becoming an official hub for real world data also positions IoTeX to “serve” data to other blockchains like Ethereum and Polkadot in the future. We are kicking off this effort in Q1 2021 with [Pebble Tracker](https://iotex.io/pebble) and [TruStream](https://medium.com/iotex/introducing-trustream-a-protocol-for-verifiable-real-time-iot-data-6353db7bc113), and will publicize our innovative oracle design for community review in Q2 2021.
