@@ -1,3 +1,7 @@
+---
+description: 全民节点投票
+---
+
 # Delegates Program
 
 IoTeX is a decentralized and permissionless network – anyone may register to become a block-producing Delegate at any time. The IoTeX Network utilizes Roll-DPoS consensus, where 24 of the top 36 community-voted Delegates are randomly selected to mine blocks every hour. For their services, Delegates are rewarded with IOTX tokens, which they often share with their voters.

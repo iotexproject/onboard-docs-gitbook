@@ -52,11 +52,25 @@ The Foundation fund is reserved to build and evolve the IoTeX platform + protoco
 
 The core team will receive an allocation of tokens, with each individual following an unlock schedule based on their start date. Team tokens have a vesting period of 4 years after start date with a 6-month cliff. Team tokens are meant to last for 10+ years to bring on future core team members. The first distribution of team tokens occurred in February 2019.
 
+
+
+ 4. 团队份额：占总供应量的15% 核心团队会获得相应的通证份额，每个人根据收到份额的时间会有不同的解锁日期。在经过6个月的cliff后正式进入4年的授予期vesting period。为了培养团队的核心成员，激励机制将持续10年以上。我们在2019年2月首次进行了通证份额的分配。
+
 **5. Roll-DPoS Mining Rewards: 12% of total supply**
 
 To fuel mining / block production by IoTeX Delegates, 12% of the total supply has been reserved for Roll-DPoS mining rewards, which commenced in April 2019 as part of Mainnet Alpha. These rewards are delivered by the IoTeX protocol to Delegates, who often share rewards with their voters.
 
+5. Roll-DPoS挖矿奖励：占总供应量的12%
+
+为了激励IoTeX节点参与共识，我们预留了12%的总供应量作为Roll-DPoS的挖矿奖励，并作为主网Alpha的一部分于2019年4月开始实施。这些奖励将通过IoTeX协议发放给节点，而节点也用来回馈他的支持者们。
+
 #### **6. Community Reward Programs: 6% of total supply** <a id="2-community-reward-programs-6-of-total-supply"></a>
 
 The community rewards fund is meant to incentivize community engagement and participation in IoTeX initiatives. Unlocked gradually over the course of 3 years after token issuance date.
+
+
+
+6. 社区奖励计划：占总供应量的6% 
+
+社区奖励基金旨在激励社区用户积极参与IoTeX的项目和活动，这些通证将在发行后的3年内逐步解锁。
 
