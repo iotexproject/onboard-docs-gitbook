@@ -1,3 +1,7 @@
+---
+description: IOTX通证供应
+---
+
 # IOTX Token Metrics
 
 * **Maximum Supply:** 10 Billion IOTX

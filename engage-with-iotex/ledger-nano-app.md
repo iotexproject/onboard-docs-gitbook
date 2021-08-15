@@ -1,6 +1,12 @@
+---
+description: Ledger Nano
+---
+
 # Ledger Nano app
 
 [Ledger Nano S](https://www.ledger.com/products/ledger-nano-s) and [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) are hardware wallets, which are considered very secure for the storage of **private keys** in the blockchain world. When using a hardware wallet like Ledger Nano, your digital assets are safe even when operating on a compromised \(or untrusted\) PC.
+
+硬件钱包Ledger Nano S和Ledger Nano X是区块链领域中公认的安全存储方式。使用Ledger Nano，即使用户在不熟悉（或不受信任）的PC上操作，您的数字资产也是安全的。
 
 ### Before you begin
 
@@ -9,6 +15,18 @@ Please make sure that:
 * Ledger Live is [installed and ready to use](https://support.ledgerwallet.com/hc/en-us/articles/360006395233-Take-your-first-steps)
 * You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793) your Ledger Nano Device
 * The latest Ledger firmware is [installed](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware)
+
+
+
+开始之前
+
+请确保：
+
+•已安装Ledger Live并处于可使用状态
+
+•初始化您的Ledger Nano设备
+
+•安装最新的Ledger固件
 
 ### Install the IoTeX Ledger App on your device
 
