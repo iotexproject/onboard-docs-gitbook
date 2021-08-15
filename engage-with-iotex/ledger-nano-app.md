@@ -34,6 +34,14 @@ The **IoTeX Ledger App** needs to be installed on your device to allow it to gen
 
 Follow the instructions below to install the IoTeX Ledger App:
 
+**在您的设备上安装IoTeX Ledger应用程序**
+
+为保障设备的正常运行，您需要在设备上安装IoTeX Ledger应用程序，生成本地IoTeX帐户以及用于区块链的电子签章。
+
+请按以下说明安装IoTeX Ledger应用程序
+
+
+
 #### 1. Install and open the official [Ledger Live ](https://www.ledger.com/ledger-live)application.
 
 #### 2. Enable Developer Mode
@@ -44,21 +52,44 @@ In Ledger Live, open “**Settings**” → “**Experimental features**” tab 
 
 In Ledger Live, open the "**Manager"**, then connect and **unlock** your Ledger Nano device: 
 
-![Connect and unlock your device](../.gitbook/assets/image%20%2822%29.png)
+**1.安装并打开官方Ledger Live应用程序；**
+
+  
+**2.启用开发者模式**
+
+ 在Ledger Live中，打开“设置（Settings）”→ “功能（**Experimental features**）”→ 开启“开发者模式（D**eveloper mode**）”
+
+**3.将您的Ledger设备连接到Ledger Live**
+
+在Ledger Live中，打开“管理器（Manager）”，连接并解锁您的Ledger Nano设备：
+
+![Connect and unlock your device&#x8FDE;&#x63A5;&#x5E76;&#x89E3;&#x9501;&#x8BBE;&#x5907;](../.gitbook/assets/image%20%2822%29.png)
 
 #### 4. Allow Ledger Manager on your device
 
 You may be asked to “_Allow Ledger Manager_” on your device: do so by clicking both buttons on your device:
 
-![Allow Ledger Manager on your device](../.gitbook/assets/image%20%284%29.png)
+**4.允许账本管理器（Ledger Manager）访问您的设备**
+
+您需要在设备上点击 “允许账本管理器（_Allow Ledger Manager）_”：同时点击设备上的两个按钮即可**：**
+
+![Allow Ledger Manager on your device&#x5728;&#x60A8;&#x7684;&#x8BBE;&#x5907;&#x4E0A;&#x5141;&#x8BB8;&#x8D26;&#x672C;&#x7BA1;&#x7406;&#x5668;](../.gitbook/assets/image%20%284%29.png)
 
 #### 5. Install the IoTeX Ledger App
 
 In Ledger Live "**Manager"** section, select the “**App Catalog**” tab, find “_IoTeX_” among the apps  and click the “Install” button next to it:
 
-![Find and install the IoTeX App in the App catalog ](../.gitbook/assets/image%20%283%29.png)
+**5.安装IoTeX Ledger应用程序**
+
+在Ledger Live “管理器（Manager）”中，选择“应用程序目录（**App Catalog**）”，在应用程序中找到“IoTeX”，然后单击旁边的“安装（Install）”：
+
+![Find and install the IoTeX App in the App catalog &#x5728;App Catalog&#x4E2D;&#x627E;&#x5230;&#x5E76;&#x5B89;&#x88C5;IoTeX App](../.gitbook/assets/image%20%283%29.png)
+
+
 
 An installation window will appear and your device will display _“Processing…”:_ just wait until the app installation is confirmed.
+
+随后将会弹出安装窗口，设备上将显示“正在处理…（Processing）”，等待应用程序安装完毕即可。
 
 ### Connect Ledger Nano to ioPay Desktop Wallet 
 
