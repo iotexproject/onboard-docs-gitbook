@@ -15,14 +15,14 @@
 
 * [平台概述](platform/platform-overview.md)
 * [区块链](platform/blockchain.md)
-* [Decentralized Identity \(DID\)](platform/did.md)
-* [Real World Data Oracle](platform/oracles.md)
-* [Secure Hardware \(TEE\)](platform/secure-hardware.md)
+* [去中心化身份认证 \(DID\)](platform/did.md)
+* [真实世界数据预言机](platform/oracles.md)
+* [安全硬件 \(TEE\)](platform/secure-hardware.md)
 
 ## 🦾 Powered by IoTeX
 
 * [Ucam](powered-by-iotex/ucam.md)
-* [Pebble Tracker](powered-by-iotex/pebble-tracker.md)
+* [Pebble原石](powered-by-iotex/pebble-tracker.md)
 * [ioTube + mimo](powered-by-iotex/mimo-dex.md)
 * [DApps & Products](powered-by-iotex/dapps-products.md)
 
