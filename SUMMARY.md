@@ -24,11 +24,11 @@
 * [Ucam](powered-by-iotex/ucam.md)
 * [Pebble原石](powered-by-iotex/pebble-tracker.md)
 * [ioTube + mimo](powered-by-iotex/mimo-dex.md)
-* [DApps & Products](powered-by-iotex/dapps-products.md)
+* [DApps & 产品](powered-by-iotex/dapps-products.md)
 
 ## 🪙 Tokenomics
 
-* [IOTX Token Utility](tokenomics/iotx-utility.md)
+* [IOTX通证的效用](tokenomics/iotx-utility.md)
 * [IOTX Token Metrics](tokenomics/iotx-metrics.md)
 * [Burn-Drop](tokenomics/burn-drop.md)
 
