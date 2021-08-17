@@ -29,19 +29,19 @@
 ## 🪙 Tokenomics
 
 * [IOTX通证的效用](tokenomics/iotx-utility.md)
-* [IOTX Token Metrics](tokenomics/iotx-metrics.md)
-* [Burn-Drop](tokenomics/burn-drop.md)
+* [IOTX 通证供应](tokenomics/iotx-metrics.md)
+* [烧投计划](tokenomics/burn-drop.md)
 
 ## 🗣 Governance <a id="hardware"></a>
 
-* [Staking & Voting](hardware/staking-voting.md)
+* [质押 & 投票](hardware/staking-voting.md)
 * [Delegates Program](hardware/delegates.md)
-* [Working Group](hardware/working-group.md)
+* [IoTeX工作组](hardware/working-group.md)
 
 ## 🔗 Engage with IoTeX
 
-* [ioPay Wallet](engage-with-iotex/iopay.md)
-* [Ledger Nano app](engage-with-iotex/ledger-nano-app.md)
+* [ioPay钱包](engage-with-iotex/iopay.md)
+* [Ledger Nano应用程序](engage-with-iotex/ledger-nano-app.md)
 * [Network Tools](engage-with-iotex/network-tools.md)
 * [Ucam Referral Program](engage-with-iotex/ucam-referral.md)
 
