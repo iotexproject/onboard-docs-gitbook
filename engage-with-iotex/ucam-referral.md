@@ -1,12 +1,12 @@
-# Ucam Referral Program
+# Ucam全球合伙人推广计划
 
-**Earn up to $10 per Ucam Referral**
+**成功推荐一位Ucam用户最高可获得10美元奖励！**
 
-Refer [Ucam](http://ucam.iotex.io/) to your family, friends, and network and earn commission on every sale! Accumulate referral points **\(1 referral = 25 points\)** and cash them in for cash prizes – the more people you refer, the higher commission rate you receive.
+向您身边的人介绍[Ucam](https://ucam.iotex.io/)，在推广Ucam，扩大IoTeX影响力的同时收获不菲的佣金奖励！每一次成功推荐都可获得25积分，积分累计之后可以提现，推荐越多，奖励越多！
 
 ![](../.gitbook/assets/image%20%2847%29.png)
 
 {% hint style="info" %}
-See the Ucam referral program instructions [here](https://community.iotex.io/t/ucam-referral-program-official-thread/1578).
+更过详细内容，请参考[链接](https://community.iotex.io/t/ucam-referral-program-official-thread/1578)。
 {% endhint %}
 
