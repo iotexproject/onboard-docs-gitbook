@@ -45,9 +45,9 @@ You can use the IoTeX “[ioPay Desktop](http://iopay.iotex.io/desktop)” walle
 1. [Install](http://iopay.iotex.io/desktop) and open ioPay Desktop wallet app
 2. Connect and unlock your Ledger Nano device
 3. On your Ledger device open the IoTeX app 
-4. The first time you may be prompted with your new IoTeX address, as shown in the picture below:  
+4. The first time you may be prompted with your new IoTeX address, as shown in the picture below: 
 
-![](https://lh3.googleusercontent.com/WvHSmtJ5vHpHluwDl-Esu19WAjsG9aC2dOkhUr_AHUZ8ad7qKV-fRYs1yk04rKiZDUoAiOzOW0QjrU-Xj6OY7ul-KlbZgArL12AyW0chXrd9NSZY68nnJYXD0C7JfVdGcrLetUgw)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 You can review this address later at any time.
 
@@ -74,9 +74,9 @@ Sending IOTX tokens is extremely easy. Just select the “Send Action” tab, fi
 
 ![](https://lh3.googleusercontent.com/wk5XRIodJJQyMhGHo6PYTw_vouR5EmQMv_bLyYUPeqEFislfyUw__V6Ue52EjMnXGjTD0oPPRW1dO5mtaszk5MoMDVqfc70Jjs6itkoGxThKkQO27kgXsdrNG-Uqi0mJUmJ0cLUp)
 
-Your Ledger Nano device will automatically display the transfer information such as the amount, the recipient address, the gas price etc. 
+Your Ledger Nano device will automatically display the transfer information such as the amount, the recipient address, the gas price, etc.
 
-![](https://lh6.googleusercontent.com/nt1oFG2VAPFBmxTg1dtDwk4Y9K6Hh0YicDdD7C8_GnABKX0oPGTP1rfqZ7MXC7Uq9tKgVSZgAllWo-Z_2FF9F1-ANn0YtKSu983QzOTSyHtzlJpd6AI0f6YEIvSk7eaxfQ4hFR40)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 Press the left and right buttons to move between each screen and review all the transaction details by. After reviewing the details, you can move to the “Sign transaction” screen, and press both buttons to confirm and sign the transaction. 
 
