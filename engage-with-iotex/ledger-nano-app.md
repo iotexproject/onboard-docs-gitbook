@@ -18,23 +18,19 @@ Follow the instructions below to install the IoTeX Ledger App:
 
 #### 1. Install and open the official [Ledger Live ](https://www.ledger.com/ledger-live)application.
 
-#### 2. Enable Developer Mode
-
-In Ledger Live, open “**Settings**” → “**Experimental features**” tab → turn on “**Developer mode**”. _Note: this is only required until the official IoTeX app is released by Ledger_
-
-#### 3. Connect your Ledger device to Ledger Live
+#### 2. Connect your Ledger device to Ledger Live
 
 In Ledger Live, open the "**Manager"**, then connect and **unlock** your Ledger Nano device: 
 
 ![Connect and unlock your device](../.gitbook/assets/image%20%2822%29.png)
 
-#### 4. Allow Ledger Manager on your device
+#### 3. Allow Ledger Manager on your device
 
 You may be asked to “_Allow Ledger Manager_” on your device: do so by clicking both buttons on your device:
 
 ![Allow Ledger Manager on your device](../.gitbook/assets/image%20%284%29.png)
 
-#### 5. Install the IoTeX Ledger App
+#### 4. Install the IoTeX Ledger App
 
 In Ledger Live "**Manager"** section, select the “**App Catalog**” tab, find “_IoTeX_” among the apps  and click the “Install” button next to it:
 
