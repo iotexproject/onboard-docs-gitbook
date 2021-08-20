@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/TYv5ksIejcA" caption="Ucam 介绍视频" %}
 
-由IoTeX赋能的[Ucam](https://ucam.iotex.io/zh/home-zh/)是全球首款100%用户隐私保护和数据所有权的家用安全摄像头，曾荣获2020CES网络安全和个人隐私创新大奖，并通过亚马逊和其他零售渠道售出了数千台。Ucam使用去中心化身份和端到端加密技术，确保除了用户之外没有别人可以访问自己的设备或视频，即便是IoTeX的工程师也不例外！ Ucam是IoTeX与Tenvis合作开发的，Tenvis成立于2005年，是全球知名的监控摄像头硬件制造商。
+由IoTeX赋能的[Ucam](https://ucam.iotex.io/zh/home-zh/)是全球首款100%保护用户隐私和数据所有权的家用安全摄像头，荣获2020CES网络安全和个人隐私创新大奖，并通过亚马逊和其他零售渠道售出了数千台。Ucam使用去中心化身份和端到端加密技术，确保除了用户之外没有别人可以访问自己的设备或视频，即便是IoTeX的工程师也不例外！ Ucam是IoTeX与Tenvis合作开发的，Tenvis成立于2005年，是全球知名的摄像头监控硬件制造商。
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
