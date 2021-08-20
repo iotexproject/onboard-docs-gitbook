@@ -14,7 +14,7 @@ Raullen Chai：IoTeX联合创始人，曾作为加密研究与开发部门负责
 
 Qevan Guo：IoTeX联合创始人，Facebook早期工程经理和研究科学家，增长黑客，新加坡国立大学机器学习和机器视觉博士。
 
-Xinxin Fan：Bosch资深研究科学家，毕业于滑铁卢大学并获得加密学博士学位
+Xinxin Fan：Bosch  博世资深研究科学家，毕业于滑铁卢大学并获得加密学博士学位。
 
 Jing Sun：IoTeX联合创始人，Sparkland 基金合伙管理人，此基金是硅谷最活跃的前沿科技基金之一。
 
@@ -26,7 +26,9 @@ IoTeX基金会由Robert Parker、Jack Li和Michael Cho等知名顾问组成，�
 
 ## 🌎 **IoTeX**生态系统
 
-IoTeX是一个由用户、开发人员和企业组成的去中心化网络，所有参与者共同管理和使用IoTeX平台。作为兼容EVM的“L1”区块链网络，IoTeX为由智能设备、DApp和数字资产组成的生态系统源源不断提供动力。在IoTeX网络中，交易和智能合约由IOTX通证实现，所有持有IOTX的人都可以成为IoTeX的股东。自2019年4月IoTeX主网成功上线以来，一直运行平稳，从未出现过宕机。目前，IoTeX网络由来自全球的60多名节点\(包括Blockfolio、CoinGecko和DraperDragon\)以去中心化的方式维护网络安全。欢迎所有志同道合的小伙伴们加入IoTeX遍及100多个国家，超过10万人的社区，让我们共同为可信物联网的愿景而努力！
+IoTeX是一个由用户、开发人员和企业组成的去中心化网络，所有参与者共同管理和使用IoTeX平台。作为兼容EVM的“L1”区块链网络，IoTeX为由智能设备、DApp和数字资产组成的生态系统源源不断提供动力。在IoTeX网络中，交易和智能合约由IOTX通证实现，所有持有IOTX的人都可以成为IoTeX的股东。自2019年4月IoTeX主网成功上线以来，一直运行平稳，从未出现过宕机。
+
+目前，IoTeX网络由来自全球的60多名节点\(包括Blockfolio、CoinGecko和DraperDragon\)以去中心化的方式维护网络安全。欢迎所有志同道合的小伙伴们加入IoTeX遍及100多个国家，超过10万人的社区，让我们共同为可信物联网的愿景而努力！
 
 ![](.gitbook/assets/1__jj10vny3cifcdck5cj3ug-2x.jpeg)
 

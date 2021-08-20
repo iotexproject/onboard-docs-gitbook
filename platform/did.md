@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
-目前，IoTeX的去中心化身份认证（DID）和身份访问管理（IAM）框架正在全球知名企业技术联盟（包括[工业互联网联盟](https://www.iiconsortium.org/pdf/IIC-Edge-DID-Tech-Brief.pdf)（IIC））中进行标准化认证。对于那些涉及多样化制造、数十亿物联网设备和数百万用户的全球物联网生态系统来说，IoTeX的DID+IAM框架不仅可以连接异构应用程序，还能促进去中心化数据共享的发展。
+目前，IoTeX的去中心化身份认证（DID）和身份访问管理（IAM）框架正在全球知名企业技术联盟（包括[工业互联网联盟](https://www.iiconsortium.org/pdf/IIC-Edge-DID-Tech-Brief.pdf)IIC）中进行标准化认证。对于那些涉及多样化制造、数十亿物联网设备和数百万用户的全球物联网生态系统来说，IoTeX的DID+IAM框架不仅可以连接异构应用程序，还能促进去中心化数据共享的发展。
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
