@@ -24,7 +24,7 @@
 * [Ucam](powered-by-iotex/ucam.md)
 * [Pebble原石](powered-by-iotex/pebble-tracker.md)
 * [ioTube + mimo](powered-by-iotex/mimo-dex.md)
-* [DApps & 产品](powered-by-iotex/dapps-products.md)
+* [DApp & 产品](powered-by-iotex/dapps-products.md)
 
 ## 🪙 Tokenomics
 
