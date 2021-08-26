@@ -4,9 +4,9 @@
 
 {% embed url="https://youtu.be/gIVskvgzG9M" %}
 
-## 📓 IoTeX Onboarding Pack
+## 📓 IoTeX项目总览
 
-Welcome! This onboarding pack is your one-stop shop for must-know information about IoTeX. 
+IoTeX作为硅谷开源项目成立于2017年，以链接现实世界和数字世界为愿景，是新一代与以太坊全兼容的高性能公有区块链。了解更多项目详情：
 
 * **开启IoTeX之旅:** 项目介绍，里程碑与路线图，IoTeX的可信物联网愿景，用户连接
 * **IoTeX平台:** 区块链，去中心化身份认证（DID）， 真实世界数据预言机，安全硬件
@@ -15,5 +15,5 @@ Welcome! This onboarding pack is your one-stop shop for must-know information ab
 * **网络治理:** 质押 & 投票，节点，治理工作组
 * **IoTeX互动:** ioPay钱包，Ledger应用程序，网络工具，Ucam全球合伙人推广计划
 
-### \*\*\*\*🗣 分享 this onboarding pack: [onboard.iotex.io](https://onboard.iotex.io)
+### \*\*\*\*🗣 资料分享: [onboard.iotex.io](https://onboard.iotex.io)
 
