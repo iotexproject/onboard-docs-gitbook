@@ -35,7 +35,7 @@
 ## 🗣 Governance <a id="hardware"></a>
 
 * [质押 & 投票](hardware/staking-voting.md)
-* [Delegates Program](hardware/delegates.md)
+* [节点](hardware/delegates.md)
 * [IoTeX工作组](hardware/working-group.md)
 
 ## 🔗 Engage with IoTeX
