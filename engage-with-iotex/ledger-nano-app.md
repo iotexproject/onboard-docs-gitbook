@@ -20,8 +20,6 @@
 
 #### 2. 启用开发者模式
 
-
-
 在Ledger Live中，打开“**设置（Settings）**”→ “功能（**Experimental features**）”→ 开启“开发者模式（**Developer mode**）”。
 
 注意：只有在Ledger发布正式版本的IoTeX应用程序之前，才需要此项操作。
