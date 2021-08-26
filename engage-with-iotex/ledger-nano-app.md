@@ -1,4 +1,4 @@
-# Ledger Nano应用程序
+# Ledger应用程序
 
 硬件钱包[Ledger Nano S](https://www.ledger.com/products/ledger-nano-s)和[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)是区块链领域中公认的安全存储方式。使用Ledger Nano，即使用户在不熟悉（或不受信任）的PC上操作，您的数字资产也是安全的。
 

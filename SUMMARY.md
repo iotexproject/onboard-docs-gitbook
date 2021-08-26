@@ -41,7 +41,7 @@
 ## 🔗 Engage with IoTeX
 
 * [ioPay钱包](engage-with-iotex/iopay.md)
-* [Ledger Nano应用程序](engage-with-iotex/ledger-nano-app.md)
+* [Ledger应用程序](engage-with-iotex/ledger-nano-app.md)
 * [网络工具](engage-with-iotex/network-tools.md)
 * [Ucam全球合伙人推广计划](engage-with-iotex/ucam-referral.md)
 
