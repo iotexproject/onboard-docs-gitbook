@@ -36,7 +36,7 @@
 
 * [质押 & 投票](hardware/staking-voting.md)
 * [节点](hardware/delegates.md)
-* [IoTeX工作组](hardware/working-group.md)
+* [治理工作组](hardware/working-group.md)
 
 ## 🔗 Engage with IoTeX
 
