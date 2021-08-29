@@ -68,7 +68,7 @@
 
 oTeX已经成为独一无二的、最可靠的区块链之一，为由设备\(如[Ucam](http://ucam.iotex.io), [Pebble](https://iotex.io/pebble)原石\)、DApp\(如[mimo](http://mimo.finance), [Cyclone](http://cyclone.xyz/)\)和服务\(如[ioPay](http://iopay.iotex.io), [ioTube](http://tube.iotex.io)\)组成的多样化生态系统源源不断提供动力。但我们仍处于起步阶段——IoTeX有一个雄心勃勃的路线图，2021年，我们将比以往任何时候都更接近可信物联网的愿景。
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2863%29.png)
 
 * **自主设备：**基于IoTeX去中心化身份\(DID\)系统的由“IoTeX赋能”的智能设备；通过与企业和标准制定机构\(如IIC和IEEE\)协作，让IoTeX的DID协议成为业界标准
 * **真实世界数据预言机：**第一个为IoTeX带来可验证真实世界数据的预言机框架，为新的机器支持资产以及DApp赋能：将IoTeX定位为真实世界数据的可信枢纽，服务于以太坊、Polkadot和其他网络

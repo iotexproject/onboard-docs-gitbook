@@ -9,11 +9,11 @@
 
 烧投计划基于智能合约实现，每台新上线的智能设备都会自动触发相应的烧毁和空投。整个计划将分成10个阶段执行，早期阶段的烧投比率比较高。在第一阶段 \(首批 1000 台智能设备\)，每一台新上线的“由 IoTeX 赋能”的智能设备将触发烧投10万个 IOTX。随后的阶段中，烧投比率将依次减半，而设备数量将增加一倍 \(例如，第二阶段有 2000 台智能设备，每一台新的智能设备将烧投5万IOTX\)。
 
-![&#x70E7;&#x6295;&#x8BA1;&#x5212;&#x65F6;&#x95F4;&#x8868;](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/quan-bu-shi-ge-jie-duan-xiao-hui-he-kong-tou-iotx-de-bi-li-yi-ji-wang-luo-zhong-zhi-neng-she-bei-de-shu-liang-.png)
 
-完成上链互联 100 万台“由 IoTeX 赋能”的智能设备之后，烧投计划将正式结束，“用于认证的烧毁”通证经济（"Burn-to-Certify"） 将正式开始。之后，IoTeX 的开发人员 （例如设备制造商）将通过烧毁 IOTX 获得新智能设备服务和功能的访问权限。这个通证经济将一直持续下去，**IOTX的总供应量会随着每一台“由IoTeX赋能”设备的上线而持续减少**，如下表所示.
+完成上链互联 100 万台“由 IoTeX 赋能”的智能设备之后，烧投计划将正式结束，“用于认证的烧毁”通证经济（"Burn-to-Certify"） 将正式开始。之后，IoTeX 的开发人员 （例如设备制造商）将通过烧毁 IOTX 获得新智能设备服务和功能的访问权限。这个通证经济将一直持续下去，**IOTX的总供应量会随着每一台“由IoTeX赋能”设备的上线而持续减少**，如下表所示。
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/iotex-tong-zheng-jing-ji-burndrop-shao-tou-ji-hua-yu-yong-yu-she-bei-yan-zheng-ji-huo-de-xiao-hui-ji-zhi-.png)
 
 {% hint style="info" %}
 更多信息，欢迎访问[烧投计划](https://burndrop.iotex.io/)官网以及[相关博客](https://iotex.medium.com/iotex-tokenomics-burn-drop-to-bootstrap-1-million-iotex-devices-66a43a1a68d7)。

@@ -30,7 +30,7 @@ IoTeX是一个由用户、开发人员和企业组成的去中心化网络，所
 
 目前，IoTeX网络由来自全球的60多名节点\(包括Blockfolio、CoinGecko和DraperDragon\)以去中心化的方式维护网络安全。欢迎所有志同道合的小伙伴们加入IoTeX遍及100多个国家，超过10万人的社区，让我们共同为可信物联网的愿景而努力！
 
-![](.gitbook/assets/1__jj10vny3cifcdck5cj3ug-2x.jpeg)
+![](.gitbook/assets/iotex-sheng-tai-2021.png)
 
 {% hint style="info" %}
 更多IoTeX的生态项目详情
