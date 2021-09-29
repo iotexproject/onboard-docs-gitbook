@@ -1,6 +1,12 @@
 # Welcome to IoTeX!
 
-{% embed url="https://youtu.be/gIVskvgzG9M" %}
+{% embed url="https://youtu.be/9l6i\_mtYP0Q" %}
+
+{% embed url="https://youtu.be/9Zdwo1RQfzM" %}
+
+{% embed url="https://youtu.be/MyW4ofSH7G0" %}
+
+{% embed url="https://youtu.be/PZh8Gojtv-A" %}
 
 ## 📓 IoTeX Onboarding Pack
 
