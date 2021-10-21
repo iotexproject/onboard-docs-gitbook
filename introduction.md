@@ -1,7 +1,3 @@
----
-description: 项目介绍
----
-
 # Introduction
 
 IoTeX was founded as an open-source platform in 2017 with a vision for the **Internet of Trusted Things,** a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. We are on a mission to ensure everyday people and businesses can own and control their devices, as well as the data/value they generate. By connecting the physical and digital worlds, IoTeX will democratize access to machine-backed DApps, assets, and services to deliver value to users and fuel the new machine economy.
