@@ -4,7 +4,7 @@ IoTeX is a decentralized and permissionless network – anyone may register to b
 
 To be eligible to mine blocks, all Delegates must meet the minimum requirements, including self-staking at least 1.2 million IOTX, receiving at least 2 million total votes, and maintaining a server to prevent any node downtime. The annual hardware costs to operate a Delegate node is extremely affordable at ≤$600 per year.
 
-See our Delegates Handbok
+### See our [Delegates Handbook](https://docsend.com/view/wsfqu7cbm8fd5un5) for the full details.
 
 ![Minimum requirements to be an IoTeX Delegate](https://community.iotex.io/uploads/default/original/2X/a/aed2034dee3aff2d9fe6039c7e57a0b0714664e1.png)
 
